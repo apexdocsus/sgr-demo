@@ -1,0 +1,14 @@
+{
+  "name": "sgr-scraper",
+  "version": "1.0.0",
+  "description": "Software Ghost Registry - Scraper",
+  "main": "index.js",
+  "scripts": {
+    "scrape:chrome": "node src/scrape-chrome.js",
+    "scrape:shopify": "node src/scrape-shopify.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
