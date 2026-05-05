@@ -321,6 +321,10 @@
         <button class="btn filter-btn" data-filter="shopify">Shopify</button>
         <button class="btn filter-btn" data-filter="wordpress">WordPress</button>
         <button class="btn filter-btn" data-filter="firefox">Firefox</button>
+        <button class="btn filter-btn" data-filter="vscode">VSCode</button>
+        <button class="btn filter-btn" data-filter="npm">NPM</button>
+        <button class="btn filter-btn" data-filter="electron">Electron</button>
+        <button class="btn filter-btn" data-filter="other">Other</button>
       </div>
       <div class="sorts">
         <button class="btn sort-btn active" data-sort="ghost">Ghost Score</button>
@@ -373,6 +377,9 @@
       if (name.includes('shopify')) return 'shopify';
       if (name.includes('wordpress')) return 'wordpress';
       if (name.includes('firefox')) return 'firefox';
+      if (name.includes('vscode') || name.includes('visual-studio-code')) return 'vscode';
+      if (name.includes('npm')) return 'npm';
+      if (name.includes('electron')) return 'electron';
       return 'chrome';
     }
     
