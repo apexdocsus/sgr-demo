@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Elementor Website Builder — more than just a page builder",
+    "slug": "elementor",
+    "rating": 90,
+    "numRatings": 7229,
+    "lastUpdated": "2026-05-04 10:50am GMT",
+    "monthsOld": 0,
+    "added": "2016-05-30",
+    "page": 1
+  },
+  {
+    "name": "Yoast SEO — Advanced SEO with real-time guidance and built-in AI",
+    "slug": "wordpress-seo",
+    "rating": 96,
+    "numRatings": 27802,
+    "lastUpdated": "2026-04-28 8:36am GMT",
+    "monthsOld": 0,
+    "added": "2010-10-11",
+    "page": 1
+  },
+  {
+    "name": "Contact Form 7",
+    "slug": "contact-form-7",
+    "rating": 80,
+    "numRatings": 2167,
+    "lastUpdated": "2026-02-08 9:32am GMT",
+    "monthsOld": 0,
+    "added": "2007-08-02",
+    "page": 1
+  },
+  {
+    "name": "Classic Editor",
+    "slug": "classic-editor",
+    "rating": 98,
+    "numRatings": 1234,
+    "lastUpdated": "2025-12-08 10:40am GMT",
+    "monthsOld": 0,
+    "added": "2017-10-24",
+    "page": 1
+  },
+  {
+    "name": "LiteSpeed Cache",
+    "slug": "litespeed-cache",
+    "rating": 96,
+    "numRatings": 2742,
+    "lastUpdated": "2026-04-01 4:54pm GMT",
+    "monthsOld": 0,
+    "added": "2016-01-29",
+    "page": 1
+  },
+  {
+    "name": "WooCommerce",
+    "slug": "woocommerce",
+    "rating": 90,
+    "numRatings": 4776,
+    "lastUpdated": "2026-04-14 12:01pm GMT",
+    "monthsOld": 0,
+    "added": "2011-09-27",
+    "page": 1
+  },
+  {
+    "name": "Akismet Anti-spam: Spam Protection",
+    "slug": "akismet",
+    "rating": 94,
+    "numRatings": 1178,
+    "lastUpdated": "2026-04-23 10:34pm GMT",
+    "monthsOld": 0,
+    "added": "2005-10-20",
+    "page": 1
+  },
+  {
+    "name": "WPForms — Easy Form Builder for WordPress — Contact Forms, Payment Forms, Surveys, &amp; More",
+    "slug": "wpforms-lite",
+    "rating": 96,
+    "numRatings": 14315,
+    "lastUpdated": "2026-04-10 1:56pm GMT",
+    "monthsOld": 0,
+    "added": "2016-03-14",
+    "page": 1
+  },
+  {
+    "name": "Site Kit by Google — Analytics, Search Console, AdSense, Speed",
+    "slug": "google-site-kit",
+    "rating": 84,
+    "numRatings": 997,
+    "lastUpdated": "2026-05-04 8:53pm GMT",
+    "monthsOld": 0,
+    "added": "2019-10-31",
+    "page": 1
+  },
+  {
+    "name": "All-in-One WP Migration and Backup",
+    "slug": "all-in-one-wp-migration",
+    "rating": 90,
+    "numRatings": 7642,
+    "lastUpdated": "2026-04-08 5:54pm GMT",
+    "monthsOld": 0,
+    "added": "2014-01-07",
+    "page": 1
+  },
+  {
+    "name": "Wordfence Security — Firewall, Malware Scan, and Login Security",
+    "slug": "wordfence",
+    "rating": 94,
+    "numRatings": 4880,
+    "lastUpdated": "2026-04-29 3:47pm GMT",
+    "monthsOld": 0,
+    "added": "2012-04-21",
+    "page": 1
+  },
+  {
+    "name": "WP Mail SMTP by WPForms — The Most Popular SMTP and Email Log Plugin",
+    "slug": "wp-mail-smtp",
+    "rating": 96,
+    "numRatings": 5115,
+    "lastUpdated": "2026-04-16 3:13pm GMT",
+    "monthsOld": 0,
+    "added": "2007-09-12",
+    "page": 1
+  },
+  {
+    "name": "Yoast Duplicate Post",
+    "slug": "duplicate-post",
+    "rating": 94,
+    "numRatings": 532,
+    "lastUpdated": "2026-03-09 10:34am GMT",
+    "monthsOld": 0,
+    "added": "2007-12-05",
+    "page": 1
+  },
+  {
+    "name": "Rank Math SEO – AI SEO Tools to Dominate SEO Rankings",
+    "slug": "seo-by-rank-math",
+    "rating": 96,
+    "numRatings": 7414,
+    "lastUpdated": "2026-04-30 8:24am GMT",
+    "monthsOld": 0,
+    "added": "2018-11-19",
+    "page": 1
+  },
+  {
+    "name": "UpdraftPlus: WP Backup &amp; Migration Plugin",
+    "slug": "updraftplus",
+    "rating": 96,
+    "numRatings": 8467,
+    "lastUpdated": "2026-04-23 4:51pm GMT",
+    "monthsOld": 0,
+    "added": "2012-05-22",
+    "page": 1
+  },
+  {
+    "name": "Duplicate Page",
+    "slug": "duplicate-page",
+    "rating": 96,
+    "numRatings": 451,
+    "lastUpdated": "2026-04-21 12:56pm GMT",
+    "monthsOld": 0,
+    "added": "2016-05-04",
+    "page": 1
+  },
+  {
+    "name": "Really Simple Security — Simple and Performant Security (formerly Really Simple SSL)",
+    "slug": "really-simple-ssl",
+    "rating": 98,
+    "numRatings": 8823,
+    "lastUpdated": "2026-04-28 9:31am GMT",
+    "monthsOld": 0,
+    "added": "2015-03-15",
+    "page": 1
+  },
+  {
+    "name": "Jetpack — WP Security, Backup, Speed, &amp; Growth",
+    "slug": "jetpack",
+    "rating": 76,
+    "numRatings": 2393,
+    "lastUpdated": "2026-04-16 6:02pm GMT",
+    "monthsOld": 0,
+    "added": "2011-01-20",
+    "page": 1
+  },
+  {
+    "name": "Hostinger Tools",
+    "slug": "hostinger",
+    "rating": 68,
+    "numRatings": 35,
+    "lastUpdated": "2026-04-29 10:57am GMT",
+    "monthsOld": 0,
+    "added": "2023-11-03",
+    "page": 1
+  },
+  {
+    "name": "All in One SEO – Powerful SEO Plugin to Boost SEO Rankings &amp; Increase Traffic",
+    "slug": "all-in-one-seo-pack",
+    "rating": 94,
+    "numRatings": 5106,
+    "lastUpdated": "2026-04-18 12:01am GMT",
+    "monthsOld": 0,
+    "added": "2007-03-30",
+    "page": 1
+  },
+  {
+    "name": "WPCode — Insert Headers and Footers + Custom Code Snippets — WordPress Code Manager",
+    "slug": "insert-headers-and-footers",
+    "rating": 98,
+    "numRatings": 1797,
+    "lastUpdated": "2026-03-17 12:35pm GMT",
+    "monthsOld": 0,
+    "added": "2012-07-12",
+    "page": 1
+  },
+  {
+    "name": "WordPress Importer",
+    "slug": "wordpress-importer",
+    "rating": 62,
+    "numRatings": 323,
+    "lastUpdated": "2025-11-05 10:53pm GMT",
+    "monthsOld": 0,
+    "added": "2010-05-20",
+    "page": 1
+  },
+  {
+    "name": "Redirection",
+    "slug": "redirection",
+    "rating": 88,
+    "numRatings": 697,
+    "lastUpdated": "2026-03-01 7:42am GMT",
+    "monthsOld": 0,
+    "added": "2007-09-10",
+    "page": 1
+  },
+  {
+    "name": "MonsterInsights — Google Analytics Dashboard for WordPress (Website Stats Made Easy)",
+    "slug": "google-analytics-for-wordpress",
+    "rating": 90,
+    "numRatings": 3136,
+    "lastUpdated": "2026-04-22 4:46pm GMT",
+    "monthsOld": 0,
+    "added": "2007-09-14",
+    "page": 1
+  }
+]
